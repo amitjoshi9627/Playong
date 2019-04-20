@@ -1,7 +1,7 @@
 # Playong
 ### By Amit Joshi
 
-Playong is a free weekly top-30 songs player from online music streaming website[Jiosaavn.com](https://jiosaavn.com).
+Playong is a free weekly top-30 songs player from online music streaming website [jiosaavn.com](https://jiosaavn.com).
 
 ## Features
 
