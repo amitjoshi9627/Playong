@@ -58,3 +58,4 @@ try:
 except Exception as error:
 	
 	print('\nWe are really sorry! But due to some technical error the program is exiting. Thank You!')
+	browser.close()
