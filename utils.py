@@ -16,7 +16,11 @@ def close_promo_ad(browser):
 		browser.find_element_by_xpath('//*[@id="vid-promo-close"]').click()
 	except:
 		return
-
+def close_login_box(browser):
+	try:
+		browser.find_element_by_xpath('//*[@id="panel-close"]').click()
+	except:
+		return
 
 def show_notificaton(first_message,last_message,play = 1):
 	if play:
