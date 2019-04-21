@@ -59,6 +59,9 @@ def wrong_credentials_check(browser,counts =1):
 			break
 	return counts
 
+def go_without_login(browser):
+	return False
+
 def take_credentials():
 	email = input("Enter your email for jiosaavn account: ")
 	password = getpass.getpass(f"Enter password for {email}: ")
@@ -68,7 +71,6 @@ def prompt(browser):
 	response = int(input("Press 1 to Log in with you account else Press 0: "))
 	if response:
 		login_user(browser)
+		return True
 	else:
-		email = 'rj322198@gmail.com'
-		password = '9557659432'
-		login_user(browser,email,password)
+		go_without_login(browser)
