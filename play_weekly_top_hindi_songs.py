@@ -50,8 +50,13 @@ try:
 				play_user_timed_songs(browser,song_time,num_songs)
 			else:
 				play_default_timed_songs(browser,num_songs)
-			
-	logout_user(browser)
+	
+	print("\nThank you for your using the program!")
+	
+	if is_LogIN:
+		logout_user(browser)
+	
+	show_notificaton("Thank","You",0)		
 
 	browser.close()
 
@@ -59,3 +64,4 @@ except Exception as error:
 	
 	print('\nWe are really sorry! But due to some technical error the program is exiting. Thank You!')
 	browser.close()
+	
