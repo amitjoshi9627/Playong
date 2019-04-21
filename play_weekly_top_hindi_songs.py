@@ -24,17 +24,21 @@ try:
 
 	counts = 1
 
-	prompt(browser)
-	
-	success =check_credentials(browser)
+	is_LogIN = prompt(browser)
 
-	if not success:
-		counts = wrong_credentials_check(browser,counts)
+	if is_LogIN:
+	
+		success =check_credentials(browser)
+
+		if not success:
+			counts = wrong_credentials_check(browser,counts)
 
 	if counts <=4:
-		print('\nLogin successful! Please wait...\n')
 
-		print('Redirecting to the Weekly top-30 songs page...\n')
+		if is_LogIN:
+			print('\nLogin successful! Please wait...')
+
+		print('\nRedirecting to the Weekly top-30 songs page...\n')
 		browser.find_element_by_xpath('/html/body/div[3]/div[1]/div[2]/section[1]/div[1]/a').click()
 		print('Here is your weekly playlist of Hindi top-30 Songs from jiosaavn. Hope you will like it!!..')
 
