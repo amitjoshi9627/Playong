@@ -30,7 +30,7 @@ For Notifications make sure you have notify2 installed.
 
 * Run the file using `python playong.py`.
 
-* It will prompt you for Log in.
+* It will prompt you for Log in (Currently Log in option is not available due to some error.)
 
 <img src="/Screenshots/ss1.png?raw=true">
 
