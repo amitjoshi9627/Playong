@@ -1,0 +1,1027 @@
+1579687528895	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDqvrcj"
+*** You are running in headless mode.
+1579687529909	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1579687530091	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579687530091	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579687530092	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579687530092	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Exiting due to channel error.
+1579687611015	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSoF17I"
+
+(firefox:24730): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(firefox:24730): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+1579687611637	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1579687611784	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579687611784	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579687611787	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579687611787	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:24779): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:24779): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+
+(/usr/lib/firefox/firefox:24809): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:24809): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+
+(/usr/lib/firefox/firefox:24852): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:24852): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+1579687614763	Marionette	INFO	Listening on port 42543
+1579687614846	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 4: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 6: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript error: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: ReferenceError: FB is not defined
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 10: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1579687744016	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYb8DHa"
+
+(firefox:24966): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(firefox:24966): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+1579687744628	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1579687744773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579687744773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579687744776	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579687744776	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:25012): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:25012): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+
+(/usr/lib/firefox/firefox:25026): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:25026): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+
+(/usr/lib/firefox/firefox:25090): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:25090): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+1579687746893	Marionette	INFO	Listening on port 43401
+1579687746943	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 4: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 6: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript error: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: ReferenceError: FB is not defined
+JavaScript warning: https://static.saavncdn.com/_s/login.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/login.min.js?t=1579159227, line 8: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/login.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/login.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/login.min.js?t=1579159227, line 9: unreachable code after return statement
+1579687785008	Marionette	INFO	Stopped listening on port 43401
+Exiting due to channel error.
+1579688404995	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqnO2zZ"
+
+(firefox:25506): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(firefox:25506): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+1579688405667	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1579688405812	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579688405813	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579688405816	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579688405816	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:25552): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:25552): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+
+(/usr/lib/firefox/firefox:25567): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:25567): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+
+(/usr/lib/firefox/firefox:25627): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:25627): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+1579688408027	Marionette	INFO	Listening on port 42581
+1579688408107	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 4: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 6: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript error: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: ReferenceError: FB is not defined
+JavaScript warning: https://static.saavncdn.com/_s/login.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/login.min.js?t=1579159227, line 8: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/login.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/login.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/login.min.js?t=1579159227, line 9: unreachable code after return statement
+1579688435326	Marionette	INFO	Stopped listening on port 42581
+1579688462112	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQ16TE4"
+
+(firefox:25705): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(firefox:25705): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+1579688462762	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1579688462907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579688462907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579688462907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579688462907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:25752): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:25752): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+
+(/usr/lib/firefox/firefox:25767): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:25767): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+
+(/usr/lib/firefox/firefox:25825): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:25825): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+1579688465328	Marionette	INFO	Listening on port 33565
+1579688465421	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 4: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 6: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript error: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: ReferenceError: FB is not defined
+JavaScript warning: https://static.saavncdn.com/_s/login.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/login.min.js?t=1579159227, line 8: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/login.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/login.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/login.min.js?t=1579159227, line 9: unreachable code after return statement
+1579688495470	Marionette	INFO	Stopped listening on port 33565
+1579688962213	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUqbWZE"
+
+(firefox:25983): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(firefox:25983): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+1579688962891	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1579688963039	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579688963039	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579688963039	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579688963039	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:26031): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:26031): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+
+(/usr/lib/firefox/firefox:26046): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:26046): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+
+(/usr/lib/firefox/firefox:26105): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:26105): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+1579688965368	Marionette	INFO	Listening on port 42715
+1579688965421	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 4: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 6: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript error: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: ReferenceError: FB is not defined
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 10: unreachable code after return statement
+1579689072880	Marionette	INFO	Stopped listening on port 42715
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1579689127129	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3R3uL9"
+
+(firefox:26262): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(firefox:26262): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+1579689127750	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1579689127895	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579689127896	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579689127896	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579689127896	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:26310): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:26310): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+
+(/usr/lib/firefox/firefox:26318): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:26318): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+
+(/usr/lib/firefox/firefox:26384): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:26384): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+1579689130169	Marionette	INFO	Listening on port 45921
+1579689130238	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 4: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 6: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript error: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: ReferenceError: FB is not defined
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 10: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1579689302636	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJMfuHg"
+
+(firefox:26525): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(firefox:26525): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+1579689303251	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1579689303395	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579689303395	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579689303396	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579689303396	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:26574): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:26574): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+
+(/usr/lib/firefox/firefox:26582): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:26582): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+
+(/usr/lib/firefox/firefox:26649): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:26649): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+1579689305673	Marionette	INFO	Listening on port 40319
+1579689305744	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 4: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 6: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: ReferenceError: FB is not defined
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 10: unreachable code after return statement
+1579689339640	Marionette	INFO	Stopped listening on port 40319
+1579689504183	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXpuG5v"
+
+(firefox:26822): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(firefox:26822): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+1579689504873	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1579689505020	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579689505020	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579689505023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579689505023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:26870): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:26870): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+
+(/usr/lib/firefox/firefox:26885): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:26885): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+
+(/usr/lib/firefox/firefox:26946): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:26946): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+1579689507372	Marionette	INFO	Listening on port 33043
+1579689507394	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 4: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 6: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript error: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: ReferenceError: FB is not defined
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 10: unreachable code after return statement
+1579689528889	Marionette	INFO	Stopped listening on port 33043
+1579689571697	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileezJXIw"
+
+(firefox:27050): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(firefox:27050): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+1579689572374	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1579689572521	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579689572521	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579689572524	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579689572524	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:27098): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:27098): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+
+(/usr/lib/firefox/firefox:27106): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:27106): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+
+(/usr/lib/firefox/firefox:27171): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:27171): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+1579689575087	Marionette	INFO	Listening on port 37189
+1579689575108	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 4: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 6: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript error: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: ReferenceError: FB is not defined
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 10: unreachable code after return statement
+1579689602583	Marionette	INFO	Stopped listening on port 37189
+1579689743608	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletMEP2H"
+
+(firefox:27312): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(firefox:27312): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+1579689744258	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1579689744404	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579689744404	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579689744404	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579689744404	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:27359): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:27359): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+
+(/usr/lib/firefox/firefox:27374): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:27374): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+
+(/usr/lib/firefox/firefox:27432): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:27432): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+1579689746838	Marionette	INFO	Listening on port 37163
+1579689746917	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 4: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 6: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript error: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: ReferenceError: FB is not defined
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 10: unreachable code after return statement
+1579689764619	Marionette	INFO	Stopped listening on port 37163
+1579689797030	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0TLbS1"
+
+(firefox:27530): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(firefox:27530): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+1579689797699	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1579689797846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579689797846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579689797846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579689797846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:27580): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:27580): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+
+(/usr/lib/firefox/firefox:27588): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:27588): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+
+(/usr/lib/firefox/firefox:27654): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:27654): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+1579689800197	Marionette	INFO	Listening on port 42109
+1579689800238	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 4: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 6: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript error: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: ReferenceError: FB is not defined
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 10: unreachable code after return statement
+1579689819713	Marionette	INFO	Stopped listening on port 42109
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1579689887050	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIfMUdh"
+
+(firefox:27761): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(firefox:27761): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+1579689887720	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1579689887867	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579689887867	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579689887867	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579689887867	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:27809): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:27809): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+
+(/usr/lib/firefox/firefox:27824): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:27824): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+
+(/usr/lib/firefox/firefox:27879): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:27879): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+1579689890111	Marionette	INFO	Listening on port 42669
+1579689890181	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 4: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 6: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript error: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: ReferenceError: FB is not defined
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 10: unreachable code after return statement
+1579689915116	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1579689915347	Marionette	INFO	Stopped listening on port 42669
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1579689942655	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilee32bVQ"
+
+(firefox:27978): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(firefox:27978): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+1579689943273	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1579689943417	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579689943418	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579689943421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579689943421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:28024): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:28024): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+
+(/usr/lib/firefox/firefox:28039): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:28039): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+
+(/usr/lib/firefox/firefox:28098): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:28098): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+1579689945743	Marionette	INFO	Listening on port 43767
+1579689945779	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 4: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 6: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript error: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: ReferenceError: FB is not defined
+1579689960384	Marionette	INFO	Stopped listening on port 43767
+1579689985604	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilex8STDF"
+
+(firefox:28181): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(firefox:28181): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+1579689986264	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1579689986408	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579689986408	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579689986411	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579689986411	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:28230): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:28230): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+
+(/usr/lib/firefox/firefox:28238): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:28238): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+
+(/usr/lib/firefox/firefox:28304): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:28304): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+1579689988722	Marionette	INFO	Listening on port 43803
+1579689988813	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 4: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 6: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: ReferenceError: FB is not defined
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 10: unreachable code after return statement
+1579690011684	Marionette	INFO	Stopped listening on port 43803
+1579690040522	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBRhn4C"
+
+(firefox:28398): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(firefox:28398): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+1579690041139	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1579690041286	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579690041286	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579690041289	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579690041289	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:28445): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:28445): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+
+(/usr/lib/firefox/firefox:28460): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:28460): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+
+(/usr/lib/firefox/firefox:28517): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:28517): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+1579690043570	Marionette	INFO	Listening on port 40311
+1579690043631	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 4: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 6: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: ReferenceError: FB is not defined
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 10: unreachable code after return statement
+1579690070959	Marionette	INFO	Stopped listening on port 40311
+1579690094220	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegSDUFK"
+
+(firefox:28631): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(firefox:28631): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+1579690094877	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1579690095023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579690095023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579690095026	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579690095026	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:28679): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:28679): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+
+(/usr/lib/firefox/firefox:28694): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:28694): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+
+(/usr/lib/firefox/firefox:28752): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:28752): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+1579690097266	Marionette	INFO	Listening on port 45171
+1579690097329	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 4: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 6: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript error: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: ReferenceError: FB is not defined
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 10: unreachable code after return statement
+1579690124875	Marionette	INFO	Stopped listening on port 45171
+1579690150422	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilek8B2ND"
+
+(firefox:28860): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(firefox:28860): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+1579690151242	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1579690151386	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579690151386	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579690151390	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579690151390	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:28908): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:28908): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+
+(/usr/lib/firefox/firefox:28916): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:28916): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+
+(/usr/lib/firefox/firefox:28983): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:28983): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+1579690153818	Marionette	INFO	Listening on port 41415
+1579690153837	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 4: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 6: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript error: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: ReferenceError: FB is not defined
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 10: unreachable code after return statement
+JavaScript error: https://www.jiosaavn.com/gpt.php?env=web-prod;pos=slot;dcopt=ist;sz=1x1;tile=1;search_query=;playlist=weekly%20top%20songs;referrer_type=playlist;referrer_id=weekly%20top%20songs;language=hindi;mode=interactive;gender=u;cohort=G03%2CA07%2CO00%2CL03, line 38: ReferenceError: osdlfm is not defined
+1579690177379	Marionette	INFO	Stopped listening on port 41415
+1579690203768	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefStvro"
+
+(firefox:29095): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(firefox:29095): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+1579690204453	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1579690204600	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579690204600	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579690204603	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579690204603	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:29142): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:29142): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+
+(/usr/lib/firefox/firefox:29157): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:29157): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+
+(/usr/lib/firefox/firefox:29215): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:29215): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+1579690206888	Marionette	INFO	Listening on port 33983
+1579690206978	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 4: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 6: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: ReferenceError: FB is not defined
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 10: unreachable code after return statement
+1579690232739	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileN2Ouob"
+
+(firefox:29301): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(firefox:29301): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+1579690233415	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1579690233565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579690233565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579690233565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579690233565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:29350): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:29350): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+
+(/usr/lib/firefox/firefox:29365): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:29365): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+
+(/usr/lib/firefox/firefox:29425): Gtk-WARNING **: Theme parsing error: gtk-contained.css:27:19: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:29425): Gtk-WARNING **: Theme parsing error: gtk-contained.css:2780:55: Not a valid image
+1579690235834	Marionette	INFO	Listening on port 36729
+1579690235857	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 4: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 6: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript error: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: ReferenceError: FB is not defined
+1579690259363	Marionette	INFO	Stopped listening on port 36729
+1579690267152	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile32mcmn"
+*** You are running in headless mode.
+1579690267743	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1579690267857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579690267857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579690267860	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579690267860	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1579690270143	Marionette	INFO	Listening on port 35107
+1579690270162	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 4: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 6: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript error: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: ReferenceError: FB is not defined
+1579690284774	Marionette	INFO	Stopped listening on port 35107
+1579690378660	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeSAQW1"
+*** You are running in headless mode.
+1579690379190	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1579690379303	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579690379303	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579690379306	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579690379306	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1579690381425	Marionette	INFO	Listening on port 41625
+1579690381467	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 4: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 6: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript error: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: ReferenceError: FB is not defined
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 10: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/1.5.1/fingerprint2.min.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/1.5.1/fingerprint2.min.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/1.5.1/fingerprint2.min.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/1.5.1/fingerprint2.min.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1579690424043	Marionette	INFO	Stopped listening on port 41625
+1579690521619	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLMO02X"
+*** You are running in headless mode.
+1579690522189	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1579690522303	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579690522303	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579690522303	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579690522304	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1579690524531	Marionette	INFO	Listening on port 41419
+1579690524627	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 4: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 6: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript error: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: ReferenceError: FB is not defined
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 10: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/1.5.1/fingerprint2.min.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/1.5.1/fingerprint2.min.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/1.5.1/fingerprint2.min.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/1.5.1/fingerprint2.min.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1579690577288	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKzXKl1"
+*** You are running in headless mode.
+1579690577865	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1579690577976	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579690577976	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579690577976	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579690577976	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1579690580330	Marionette	INFO	Listening on port 35551
+1579690580397	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 4: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 6: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript error: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: ReferenceError: FB is not defined
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 10: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/1.5.1/fingerprint2.min.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/1.5.1/fingerprint2.min.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/1.5.1/fingerprint2.min.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/1.5.1/fingerprint2.min.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1579690609700	Marionette	INFO	Stopped listening on port 35551
+1579690736857	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepdSS4N"
+*** You are running in headless mode.
+1579690737431	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1579690737545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579690737545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579690737545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579690737546	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1579690739783	Marionette	INFO	Listening on port 43549
+1579690739868	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 4: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 6: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 7: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: unreachable code after return statement
+JavaScript error: https://static.saavncdn.com/_s/home.min.js?t=1579159227, line 5: ReferenceError: FB is not defined
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1579159227, line 10: unreachable code after return statement
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/1.5.1/fingerprint2.min.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/1.5.1/fingerprint2.min.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/1.5.1/fingerprint2.min.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/1.5.1/fingerprint2.min.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

@@ -11,12 +11,12 @@ from song_processing import *
 try:
     opts = Options()
     opts.headless = True
-    browser = Firefox()
+    browser = Firefox(options=opts)
     start = time.time()
     print('Starting the program. Please wait...\n')
     browser.get('https://www.jiosaavn.com/')
     end = time.time()
-    print(f'Total time to load the page: {round(end - start,5)} seconds.\n')
+    # print(f'Total time to load the page: {round(end - start,5)} seconds.\n')
 
     accept_cookies(browser)
     close_promo_ad(browser)
@@ -40,7 +40,7 @@ try:
         print('\nRedirecting to the Weekly top-30 songs page...\n')
         browser.find_element_by_xpath(
             '/html/body/div[3]/div[1]/div[2]/section[1]/div[1]/a').click()
-        print('Here is your weekly playlist of Hindi top-30 Songs from jiosaavn. Hope you will like it!!..')
+        # print('Here is your weekly playlist of Hindi top-30 Songs from jiosaavn. Hope you will like it!!..')
 
         num_songs = int(input('\nHow many songs you want to play? '))
         if num_songs > 0:
@@ -63,6 +63,5 @@ try:
     browser.close()
 
 except Exception as error:
-
     print('\nWe are really sorry! But due to some technical error the program is exiting. Thank You!')
     browser.close()
