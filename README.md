@@ -28,7 +28,7 @@ For Notifications make sure you have notify2 installed.
 
 ## Usage
 
-* Run the file `play_weekly_top_hindi_songs.py` using `python play_weekly_top_hindi_songs.py`.
+* Run the file using `python playong.py`.
 
 * It will prompt you for Log in.
 
