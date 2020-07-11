@@ -47,3 +47,4 @@ For Notifications make sure you have notify2 installed.
 <img src="/Screenshots/ss4.png?raw=true">
 
 #### Thank You!
+_Please Give a :star2: if you :+1: it._
